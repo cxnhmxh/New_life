@@ -6,7 +6,7 @@ import time
 
 
 def main():
-    content = '李博是一头猪~~~'
+    content = '好好学习，天天向上~~~'
     while True:
         # 清理屏幕上的输出
         os.system('cls')  # os.system('clear')
